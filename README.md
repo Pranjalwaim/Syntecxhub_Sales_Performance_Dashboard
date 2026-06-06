@@ -75,7 +75,7 @@ Revenue Last Year = CALCULATE([Total Revenue], SAMEPERIODLASTYEAR(DateTable[Date
 ```
 Syntecxhub_Sales_Performance_Dashboard/
 │
-├── Sales_Dashboard.pbix              # Power BI dashboard file
+├── Sales_Performance_Dashboard.pbix              # Power BI dashboard file
 ├── SuperStore_Sales_Dataset.csv      # Raw dataset
 ├── Dashboard_Screenshot.png          # Preview image
 └── README.md                         # Project documentation
