@@ -107,7 +107,7 @@ Syntecxhub_Sales_Performance_Dashboard/
 B.Tech CSE — MIT College, Chh. Sambhajinagar
 Data Analyst Intern @ Syntecxhub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/pranjal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/pranjalwaim)
 
 ---
 
